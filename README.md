@@ -1,9 +1,4 @@
-# Search Text 
-This is a sample for Techical file
-* point 1
-* point 2
-* point3
-   * Nested Item
-<!--  -->
+# Investigation of Elasticsearch, Solr and Lucene for full text searching
 
-Hi i am ram and nice meet you
+Searches are integral parts of any application. Performing searches on terabytes and petabytes of data can be challenging when speed, performance, and high availability are core requirements.This paper investigate **Elasticsearch,Solr and Lucene**
+
