@@ -17,3 +17,9 @@ This tool is much younger than Solr, but it has gained a lot of popularity becau
 
 [Apache Lucene](https://lucene.apache.org/) is a high-performance, full-featured search engine library written entirely in Java. It is a technology suitable for nearly any application that requires structured search, full-text search, faceting, nearest-neighbor search across high-dimensionality vectors, spell correction or query suggestions.
 
+## References
+1. [https://www.trustradius.com/compare-products/apache-lucene-vs-elasticsearch](https://www.trustradius.com/compare-products/apache-lucene-vs-elasticsearch)
+1. [https://logz.io/blog/solr-vs-elasticsearch/](https://logz.io/blog/solr-vs-elasticsearch/)
+1. [https://sematext.com/blog/solr-vs-elasticsearch-differences/](https://sematext.com/blog/solr-vs-elasticsearch-differences/)
+1. [https://comparisons.financesonline.com/apache-lucene-vs-apache-solr](https://comparisons.financesonline.com/apache-lucene-vs-apache-solr)
+1. [https://www.hcltech.com/blogs/elasticsearch-vs-solr](https://www.hcltech.com/blogs/elasticsearch-vs-solr)
